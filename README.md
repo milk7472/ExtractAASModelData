@@ -1,0 +1,2 @@
+# ExtractAASModelData
+此模板在於與Azure Aanalysis Servie做連結，並取得模型內的表格資料匯出成CSV檔案至Azure blob
