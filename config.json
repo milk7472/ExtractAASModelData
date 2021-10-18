@@ -1,0 +1,9 @@
+[
+	{
+		"storage_key1": "mWeXilbICFQmkiX4T3tE4FQigbtj8Kq+Ii10CYNWpWQMqvnTyzKgyyy5PocggYZ8LgMyn+Le/u7HeBs/HKSWRA==",
+		"storage_key2": "tO0yNhD9CEUbHlzVe2E6fi+cuWmcDyi8Uw61ccFaEuZxS1cQTeVcm1rYjUhv4fNlkb7eT9cEg2Q45aqVmvNzOw==",
+		"storage_connection_string1": "DefaultEndpointsProtocol=https;AccountName=hrbipseaadlg2;AccountKey=mWeXilbICFQmkiX4T3tE4FQigbtj8Kq+Ii10CYNWpWQMqvnTyzKgyyy5PocggYZ8LgMyn+Le/u7HeBs/HKSWRA==;EndpointSuffix=core.windows.net",
+		"storage_connection_string2": "DefaultEndpointsProtocol=https;AccountName=hrbipseaadlg2;AccountKey=tO0yNhD9CEUbHlzVe2E6fi+cuWmcDyi8Uw61ccFaEuZxS1cQTeVcm1rYjUhv4fNlkb7eT9cEg2Q45aqVmvNzOw==;EndpointSuffix=core.windows.net",
+		"model_01": "SH_HR_BI_01"
+	}
+]
